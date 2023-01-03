@@ -8,3 +8,7 @@ Day 2 Project - Tip Calculator
 Day 3 Project - Treasure Island
 
 Day 4 Project - Rock Paper Scissors
+
+Day 5 Project - Random password generator
+
+Day 6 Project - Escaping the maze (Reeborg's World Website)
