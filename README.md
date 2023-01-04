@@ -12,3 +12,7 @@ Day 4 Project - Rock Paper Scissors
 Day 5 Project - Random password generator
 
 Day 6 Project - Escaping the maze (Reeborg's World Website)
+
+Day 7 Project - Hangman
+
+Day 8 Project - Caesar Cipher
